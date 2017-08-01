@@ -1,0 +1,25 @@
+{
+  "name": "refactoring-exercise-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greatersum/refactoring-exercise-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greatersum/refactoring-exercise-javascript/issues"
+  },
+  "homepage": "https://github.com/greatersum/refactoring-exercise-javascript#readme",
+  "devDependencies": {
+    "jasmine": "^2.7.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
